@@ -11,25 +11,25 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title:
+    title: 
     text: 
     button: Tell Me More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: ""
+    text: "SMS offers professional development services, delivering tailored solutions to bring your creative visions to life."
     section: services
     list:
       - title: "VR Development"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        desc: "From immersive VR games to safety-critical simulations, we deliver high-quality virtual experiences tailored to your needs. Our expertise includes AI integration for dynamic, intelligent interactions, as well as interactive storytelling and real-world scenario modeling, ensuring your VR solutions are both engaging and reliable."
+        icon: fa fa-vr-cardboard #find more at https://fontawesome.com/icons
       - title: "Game Development"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "Game Design"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        desc: "Specializing in Unreal Engine, we offer full-scale game development, including multiplayer systems, anti-cheat integration, and custom plugin creation. Our expertise extends to seamlessly incorporating third-party services, ensuring your game is both robust and scalable."
+        icon: fa fa-dragon
+      - title: "Experience Design"
+        desc: "Whether you're refining game mechanics or creating a more immersive virtual world, we’re here to help you craft engaging and memorable experiences. From balancing in-game economies to enhancing user immersion, our expertise ensures your vision comes to life."
+        icon: fa fa-cubes
 
   portfolio:
     title: "Projects"
@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Leicestershire-based SM Studios focuses on innovative creative development, seeking to enhance user experiences."
+    body: "Leicestershire-based SM Studios specializes in innovative creative development, with a strong focus on enhancing user experiences. Our mission is to push the boundaries of interactive design, from game development to immersive VR simulations. With the ability to bring together international teams, we collaborate across borders to deliver world-class solutions."
     section: about
 
   clients:
@@ -91,7 +91,7 @@ en: &DEFAULT_EN
 
   team:
     title: "TEAM"
-    text: We are the co founders of St Martins studios.
+    text: We are the co-founders of St Martins Studios.
     subtext: 
     section: team
     people:
