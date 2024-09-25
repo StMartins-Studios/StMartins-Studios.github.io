@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Projects"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: 
     section: portfolio
     closebutton: "Close Project"
 
@@ -97,19 +97,19 @@ en: &DEFAULT_EN
     people:
       - name: "Anil Yanik"
         role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/anil_pp.png
         social:
           - url: https://www.linkedin.com/in/anil-yanik-28267a199/
             icon: fab fa-linkedin-in
       - name: "Bilal Guvenc"
         role: "Lead Developer"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/bilal_pp.png
         social:
           - url: https://www.linkedin.com/in/abilalguvenc/
             icon: fab fa-linkedin-in
       - name: "Alper Gunes"
         role: "Director"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/alper_pp.png
         social:
           - url: https://www.linkedin.com/in/gunesalper/
             icon: fab fa-linkedin-in
