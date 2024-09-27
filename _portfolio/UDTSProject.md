@@ -19,7 +19,7 @@ We believe there's a better way. Using virtual reality, we recreate real-life dr
 Our goal is not only to make learning to drive safer, easier, and more affordable, but also to ensure it's accessible to everyone.
 
 
-<button type="button"  style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;" onclick="window.location.href='https://www.stmartins-studios/UKDrivingTestSimulator';">i'm interested</button>
+<button type="button"  style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;" onclick="window.location.href='https://www.stmartins-studios.com/UKDrivingTestSimulator';">i'm interested</button>
 
 
 
